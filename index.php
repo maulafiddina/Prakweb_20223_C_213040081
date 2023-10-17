@@ -44,6 +44,5 @@
             </tbody>
         </table>
     </div>
-    <!-- Tambahkan link Bootstrap JS di sini (jika diperlukan) -->
 </body>
 </html>
